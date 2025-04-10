@@ -9,3 +9,5 @@ for i in range(N):
     a[i] = i ** 2
 
 print(a)
+
+print(a)
