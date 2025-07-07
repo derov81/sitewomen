@@ -13,6 +13,7 @@ sitewomen/women/__init__.py
 sitewomen/women/migrations
 sitewomen/sitewomen/__pycache__
 sitewomen/women/__pycache__
+sitewomen/users/__pycache__
 
 
 
